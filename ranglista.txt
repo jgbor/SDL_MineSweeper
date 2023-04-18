@@ -1,0 +1,5 @@
+8 Luca 10x10 3 db
+27 Gabor 30x30 30 db
+115 Gabor 20x15 31 db
+182 Jatekos 23x23 42 db
+186 Gabo 30x30 60 db
